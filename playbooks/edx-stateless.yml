@@ -40,7 +40,7 @@
       - lms
 
     # Main EdX application
-    # https://github.com/llasha/edx-platform
+    # https://github.com/edx-solutions/edx-platform
     - role: edxapp
       celery_worker: True
     - edxapp

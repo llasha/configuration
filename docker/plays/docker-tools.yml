@@ -1,7 +1,0 @@
-- name: build a VM with docker-tools
-  hosts: all
-  become: True
-  gather_facts: True
-  roles:
-    - docker
-    - docker-tools

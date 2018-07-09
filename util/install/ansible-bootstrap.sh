@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-#
+## Require OPENEDX_RELEASE
 # Script for installing Ansible and the edX configuration repostory
 # onto a host to enable running ansible to complete configuration.
 # This script can be used by Docker, Packer or any other system
